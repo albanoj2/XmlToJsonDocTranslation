@@ -1,0 +1,24 @@
+<docs>
+	<doc>
+		<person>
+			<name>John Doe</name>
+			<description>
+				<age>23</age>
+				<alias>M C</alias>
+			</description>
+			<description>
+				<age>24</age>
+				<alias>John</alias>
+			</description>
+		</person>
+	</doc>
+	<doc>
+		<person>
+			<name>John Doe</name>
+			<description>
+				<age>24</age>
+				<alias>Steve</alias>
+			</description>
+		</person>
+	</doc>
+</docs>
